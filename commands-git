@@ -13,3 +13,5 @@ Les 3 commandes de push:
 	git checkout -b new-branch = create new branch and switch automatically, git branch new-branch = create new branch git switch name-branch = switch branch.
 	
 	git status = check status of changes
+
+J'ai tout éffacé dommage!!
