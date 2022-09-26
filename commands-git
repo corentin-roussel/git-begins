@@ -11,3 +11,7 @@ Les 3 commandes de push:
 	git pull <remote> : Qui permet de récupérer les changements fait sur github et de les envoyer sur git.
 	
 	git branch new-branch = create new branch, git switch name-branch = switch branch, c'est deux commandes permettent de créer et de  switcher de branch, git checkout -b new-branch = create new branch and switch automatically 
+
+	git checkout -b new-branch = create new branch and switch automatically, git branch new-branch = create new branch git switch name-branch = switch branch.
+	
+	git status = check status of changes
