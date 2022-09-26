@@ -1,0 +1,9 @@
+Pour cloner un repository: clone https://github.com/username/repository
+
+Les 3 commandes de push: 
+
+	git add -A ou --all ou "nom-du-fichier": Permet de rajouter les fichiers manquants pour pouvoir les commits ensuite.
+	
+	git commit -m "message-IMPORTANT": Permet de faire la sauvegarde des changements effectuer afin d'avoir une version a jour.
+	
+	git push -u origin main: Qui va permettre de push le projet en cours sur la branche principale du github.
