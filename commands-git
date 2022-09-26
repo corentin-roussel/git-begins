@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-j'ai tout éffacé il va falloir faire un git checkout
-=======
 Pour cloner un repository: clone https://github.com/username/repository
 
 Les 3 commandes de push: 
@@ -16,5 +13,3 @@ Les 3 commandes de push:
 	git checkout -b new-branch = create new branch and switch automatically, git branch new-branch = create new branch git switch name-branch = switch branch.
 	
 	git status = check status of changes
-	
->>>>>>> command
