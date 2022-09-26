@@ -1,16 +1,1 @@
-Pour cloner un repository: clone https://github.com/username/repository
-
-Les 3 commandes de push: 
-
-	git add -A ou --all ou "nom-du-fichier": Permet de rajouter les fichiers manquants pour pouvoir les commits ensuite.
-	
-	git commit -m "message-IMPORTANT": Permet de faire la sauvegarde des changements effectuer afin d'avoir une version a jour.
-	
-	git push -u origin main: Qui va permettre de push le projet en cours sur la branche principale du github.
- 
-	git pull <remote> : Qui permet de récupérer les changements fait sur github et de les envoyer sur git.
-	
-	git checkout -b new-branch = create new branch and switch automatically, git branch new-branch = create new branch git switch name-branch = switch branch.
-	
-	git status = check status of changes
-	
+J'ai tout éffacé dommage!!
